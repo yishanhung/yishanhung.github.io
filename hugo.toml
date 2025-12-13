@@ -1,0 +1,7 @@
+baseURL = "https://yishanhung.github.io/"
+languageCode = "zh-tw"
+title = "YiShan Hung"
+disableKinds = ["taxonomy", "term"]
+
+[markup.goldmark.renderer]
+unsafe = true

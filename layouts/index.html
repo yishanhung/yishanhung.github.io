@@ -1,0 +1,17 @@
+﻿{{ define "main" }}
+<p>
+  我是 <strong>{{ .Site.Title }}</strong>。這裡放我的專案、筆記與文章。
+</p>
+
+<h2>Recent writing</h2>
+<ul class="list">
+  {{ range first 8 (where .Site.RegularPages "Section" "blog") }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span class="meta">— {{ .Date.Format "2006-01-02" }}</span>
+    </li>
+  {{ end }}
+</ul>
+
+<p class="meta"><a href="/blog/">More…</a></p>
+{{ end }}

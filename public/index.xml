@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yishan Hung</title>
+    <link>http://localhost:1314/</link>
+    <description>Recent content on Yishan Hung</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1314/about/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/about/</guid>
+      <description>&lt;p&gt;我是 Yishan Hung，目前專注於：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer Science&lt;/li&gt;&#xA;&lt;li&gt;Backend / C++&lt;/li&gt;&#xA;&lt;li&gt;個人作品集與學習筆記&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/yishanhung&#34;&gt;https://github.com/yishanhung&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
