@@ -1,4 +1,4 @@
-baseURL = "https://yishanhung.github.io/"
+baseURL = "https://yishanhung.com"
 languageCode = "zh-tw"
 title = "YiShan Hung"
 disableKinds = ["taxonomy", "term"]
